@@ -1,6 +1,6 @@
 {
 	"name": "@wymjs/vite-inject-env",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"description": "環境變數注入",
 	"main": "dist/index.js",
